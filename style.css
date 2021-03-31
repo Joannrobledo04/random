@@ -1,0 +1,12 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#title {
+    text-align: center;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F06%2FCool-iphone-backgrounds-Flowers.jpg&f=1&nofb=1);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+#m
